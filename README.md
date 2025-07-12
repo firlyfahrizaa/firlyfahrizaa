@@ -13,4 +13,4 @@ I have been studying computer engineering since elementary school. I am a techno
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [firlyfahriza@yahoo.com](mailto:firlyfahriza@yahoo.com)
 *   🧠  I'm learning Python, JavaScript, PHP, Node.Js
-*   ⚡  I love cats
+*   ⚡  I love cats, RPG Games (especially J-RPG)
