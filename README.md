@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Firly Fahriza
+=====================================================================================================================================
 
-<!--
-**firlyfahrizaa/firlyfahrizaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Part Time Developer
+-------------------
 
-Here are some ideas to get you started:
+\- Participant in the 2022 National Science Olympiad in Informatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+\- Silver Medalist at the 2023 National Science Olympiad in Chemistry
+
+I have been studying computer engineering since elementary school. I am a technology enthusiast and love new things in technology.
+
+*   🌍  I'm based in Indonesia
+*   ✉️  You can contact me at [firlyfahriza@yahoo.com](mailto:firlyfahriza@yahoo.com)
+*   🧠  I'm learning Python, JavaScript, PHP, Node.Js
+*   ⚡  I love cats
