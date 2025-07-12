@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Part Time Developer
 -------------------
-![Banner](https://raw.githubusercontent.com/firlyfahriza/firlyfahriza/main/assets/banner.png)
+![Banner](https://github.com/firlyfahrizaa/firlyfahrizaa/blob/main/assets/banner.png?raw=true)
 
 \- Participant in the 2022 National Science Olympiad in Informatics
 
