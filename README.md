@@ -6,7 +6,7 @@ Code Enthusiast
 
 \- Participant in the 2022 National Science Olympiad in Informatics
 
-\- Silver Medalist at the 2023 National Science Olympiad in Chemistry
+\- Silver Medalist at the 2023 National Science Olympiad Week in Chemistry
 
 I have been studying computer engineering since elementary school. I am a technology enthusiast and love new things in technology.
 
