@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Code Enthusiast
 -------------------
 
-\- Participant in the 2022 National Science Olympiad in Informatics
+\- Participant in the 2022 Indonesia's National Science Olympiad in Informatics
 
 \- Silver Medalist at the 2023 National Science Olympiad Week in Chemistry
 
